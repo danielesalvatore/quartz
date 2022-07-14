@@ -1,0 +1,24 @@
+---
+title: Agile Project Management
+---
+Topics:
+- [Applying agile](agile-project-management/applying-agile/applying-agile.md)
+- [Scrum](agile-project-management/scrum/scrum.md)
+- [Agile](agile-project-management/agile.md)
+- [Agile manifesto](agile-project-management/agile-manifesto.md)
+- [Business agility](agile-project-management/business-agility.md)
+- [DevOps](agile-project-management/devops.md)
+- [Disciplined Agile Delivery (DAD)](agile-project-management/disciplined-agile-delivery-dad.md)
+- [Distinguishing Agile from Waterfall](agile-project-management/distinguishing-agile-from-waterfall.md)
+- [Extreme programming (XP)](agile-project-management/extreme-programming-xp.md)
+- [History of agile](agile-project-management/history-of-agile.md)
+- [Interview questions](agile-project-management/interview-questions.md)
+- [Kanban](agile-project-management/kanban.md)
+- [Large-Scale Scrum (LeSS)](agile-project-management/large-scale-scrum-less.md)
+- [Mission](agile-project-management/mission.md)
+- [Scale agile](agile-project-management/scale-agile.md)
+- [Scaled Agile Framework (SAFe)](agile-project-management/scaled-agile-framework-safe.md)
+- [Scrum of Scrums](agile-project-management/scrum-of-scrums.md)
+- [The Spotify Model](agile-project-management/the-spotify-model.md)
+- [VUCA](agile-project-management/vuca.md)
+- [Work in Progress](agile-project-management/work-in-progress.md)

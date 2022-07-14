@@ -1,0 +1,4 @@
+---
+title: Cost variance
+---
+The difference between the actual cost and the budgeted cost. 

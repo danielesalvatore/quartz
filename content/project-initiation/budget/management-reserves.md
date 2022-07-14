@@ -1,0 +1,6 @@
+---
+title: Management reserves
+---
+While contingency reserves are used to cover the costs of identified risks, management reserves are used to cover the costs of unidentified risks. For example, if you were managing a construction project and a meteor hit your machinery, you could use management reserves to cover the costs of the damage. 
+
+Contingency reserves are an estimated amount, whereas management reserves are generally a percentage of the total cost of the project. To determine a project’s management reserves, you can estimate a percentage of the budget to set aside. This estimate is typically between 5–10%, but the amount is based on the complexity of the project. A project with a more complex scope may require higher management reserves. Note that the project manager will generally need approval from the project sponsor in order to use management reserves.

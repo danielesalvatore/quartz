@@ -1,0 +1,4 @@
+---
+title: Breaking down barriers
+---
+A project manager adds value to a project when they break down barriers, allow their team to innovate new ways to do things, and empower them to share ideas.

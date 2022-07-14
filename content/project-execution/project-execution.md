@@ -1,0 +1,23 @@
+---
+title: Project execution
+---
+Topics:
+- [Continuous improvements](project-execution/continuous-improvements/continuous-improvements.md)
+- [Data visualization](project-execution/data-visualization/data-visualization.md)
+- [Effective communication](project-execution/effective-communication/effective-communication.md) 
+- [Effective teams](project-execution/effective-teams/effective-teams.md)
+- [Project data](project-execution/project-data/project-data.md)
+- [Quality management](project-execution/quality-management/quality-management.md)
+- [Burndown chart](project-execution/burndown-chart.md)
+- [Change](project-execution/change.md)
+- [Dependency management](project-execution/dependency-management.md)
+- [Deviation](project-execution/deviation.md)
+- [Escalation](project-execution/escalation.md)
+- [Gantt chart](project-execution/gantt-chart.md)
+- [Identifying and tracking dependencies](project-execution/identifying-and-tracking-dependencies.md)
+- [Product roadmap](project-execution/product-roadmap.md)
+- [Retrospective](project-execution/retrospective.md)
+- [Roadmap](project-execution/roadmap.md)
+- [Techniques to help manage risks](project-execution/techniques-to-help-manage-risks.md)
+- [Tracking](project-execution/tracking.md)
+- [Tracking methods](project-execution/tracking-methods.md)

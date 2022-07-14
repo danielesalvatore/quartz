@@ -1,0 +1,4 @@
+---
+title: Risk exposure
+---
+A way to measure the potential future loss resulting from a specific activity or event. 
