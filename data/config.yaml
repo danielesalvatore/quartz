@@ -2,19 +2,22 @@ name: Daniele Salvatore
 enableToc: true
 openToc: false
 enableLinkPreview: true
-enableLatex: false
+enableLatex: true
 enableCodeBlockTitle: true
 enableCodeBlockCopy: true
+enableCallouts: true
 enableSPA: true
 enableFooter: true
 enableContextualBacklinks: true
 enableRecentNotes: false
-enableGitHubEdit: false
+enableGitHubEdit: true
 GitHubLink: https://github.com/danielesalvatore/quartz/tree/hugo/content
+enableSemanticSearch: false
+operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
 description:
-  Personal notes about Project Management
+  notes about Project Management
 page_title:
-  "🧠 Project management notes"
+  "🧠 Project management • notes"
 links:
   - link_name: Linkedin
     link: https://www.linkedin.com/in/daniele-salvatore-5b342452/

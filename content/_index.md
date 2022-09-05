@@ -1,10 +1,10 @@
 ---
-title: 🧠 Project management notes
+title: 🧠 Project management • notes
 ---
 
-I am [Daniele Salvatore](https://www.linkedin.com/in/daniele-salvatore-5b342452/) and this website collects the notes I took while studying for my [🏅 Certificate](https://coursera.org/verify/professional-cert/AE8J4RAJHF9E) as project manager. 
+I am [Daniele Salvatore](https://www.linkedin.com/in/daniele-salvatore-5b342452/) and here I collected my notes of [Google Project Management: Professional Certificate](https://www.coursera.org/professional-certificates/google-project-management) course.
 
-The notes are relative to [Google Project Management: Professional Certificate](https://www.coursera.org/professional-certificates/google-project-management)
+Here is the link to my [🏅 Certificate](https://coursera.org/verify/professional-cert/AE8J4RAJHF9E).
 
 Main topics:
 - 🌱 [Foundations of Project Management](foundations-of-project-management/foundations-of-project-management.md)
