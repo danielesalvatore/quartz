@@ -2,7 +2,7 @@
 title: 🧠 Project management notes
 ---
 
-This website collects the notes I took while studying for my [🏅 Certificate](https://coursera.org/verify/professional-cert/AE8J4RAJHF9E) as project manager. 
+I am [Daniele Salvatore](https://www.linkedin.com/in/daniele-salvatore-5b342452/) and this website collects the notes I took while studying for my [🏅 Certificate](https://coursera.org/verify/professional-cert/AE8J4RAJHF9E) as project manager. 
 
 The notes are relative to [Google Project Management: Professional Certificate](https://www.coursera.org/professional-certificates/google-project-management)
 
