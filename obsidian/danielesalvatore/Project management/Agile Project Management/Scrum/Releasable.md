@@ -1,0 +1,1 @@
+When the team has developed a [[Minimum Viable Product (MVP)]], which has a set of implemented features or requirements. 

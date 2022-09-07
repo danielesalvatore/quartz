@@ -1,0 +1,19 @@
+Techniques:
+- Be precise
+	- Identify the problem you're solving for your audience
+	- Remove any content that dilutes your message
+	- [[Design for 5 seconds]]
+- Be flexible
+	- Consider the approach you'd take if you had to shorten your presentation unexpectedly
+	- Practice avoiding mistakes that could distract from your message
+	- Identify and come up with answers to potential audience questions
+	- Image and prepare for possible objections
+- Be memorable
+	- Use stories or repetition to help your audience remember information
+	- Beware of your body language
+		- Posture
+		- Tone of voice
+		- Pace
+		- Eye contact
+		- Warm and friendly facial expressions
+		- Confidence

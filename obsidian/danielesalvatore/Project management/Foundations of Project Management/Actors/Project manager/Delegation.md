@@ -1,0 +1,1 @@
+[[Project manager]] use delegation to add value to their teams and organizations by matching tasks to individuals who can best complete the work.

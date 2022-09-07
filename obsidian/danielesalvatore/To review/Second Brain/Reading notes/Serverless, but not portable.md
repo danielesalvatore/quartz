@@ -1,0 +1,5 @@
+# Serverless, but not portable
+
+First, let's talk lock-in. Yes, yes, every major cloud provider has a FaaS offering, but here's what they don't tell you: The bulk of your time building serverless applications will not be spent writing the application logic or focusing on the parts of your code that are in fact the differentiated thing that you're being paid to work on. It just flat out won't. Instead you'll spend most of your time figuring out how to mate these functions with other services from that cloud provider. What format is it expecting? Do you have the endpoints correct? Is the security scoping accurate? Oh, it didn't work? Time to embark on a microservices distributed systems murder mystery where the victim is another tiny piece of your soul, because getting coherent logs out of a CloudFront --> API Gateway --> Lambda configuration is CRAP.
+
+That's the kind of thing that isn't portable anywhere. The ultimate expression of this problem can be observed in AWS's Step Functions: There's no equivalent elsewhere, so you're well and truly stuck if you want to vacate the platform and happen to be using them.

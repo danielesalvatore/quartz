@@ -1,0 +1,1 @@
+The inherent risk is the measure of risk, calculated by its [[Probability]] and [[Impact]].

@@ -1,0 +1,1 @@
+The product increment is what is produced after a given [[Sprint]] and is considered [[Releasable]].

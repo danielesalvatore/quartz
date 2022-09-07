@@ -1,0 +1,13 @@
+Topics:
+- [[Project manager]]
+- [[Customers]]
+- [[Portfolio manager]]
+- [[Program manager]]
+- [[Project sponsor]]
+- [[Project team]]
+- [[Stakeholders]]
+- [[T-shaped team]]
+- [[Team]]
+- [[Team members]]
+- [[Users]]
+- [[Workgroups]]

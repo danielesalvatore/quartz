@@ -1,0 +1,1 @@
+Information that could be used to directly identify, contact, or locate an individual

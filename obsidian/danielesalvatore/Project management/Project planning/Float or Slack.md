@@ -1,0 +1,1 @@
+Float, or slack, is the amount of time you can wait to begin a task before it impacts the project schedule and threatens the project outcome

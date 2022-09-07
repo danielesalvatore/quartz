@@ -1,0 +1,11 @@
+Best practices:
+- Carefully review deliverables, milestones, and tasks.
+	- Divide any deliverable contained in the [[Project charter]] into milestones.
+- Give yourself time to plan
+	- Use [[Effort estimations]] and [[Capacity planning]] to determine how long the project will take.
+- Recognize and plan for the inevitable: things will go wrong.
+	- Use [[Buffers]]
+- Stay curious
+	- You cannot be an expert on everything, so [[Getting accurate time estimates from your team]].
+- Champion your plan
+	- Consider your plan as the single source of truth.

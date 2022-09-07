@@ -1,0 +1,1 @@
+The sprint backlog is the set of [[Product backlog]] items that are identified for completion during the upcoming [[Sprint]].

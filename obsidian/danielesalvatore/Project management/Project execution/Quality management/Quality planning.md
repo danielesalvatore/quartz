@@ -1,0 +1,1 @@
+The process that the [[Project manager]] or the team establishes and follows for identifying and determining exactly which standards of [[Quality]] are relevant to the project as a whole, and how to satisfy them. 

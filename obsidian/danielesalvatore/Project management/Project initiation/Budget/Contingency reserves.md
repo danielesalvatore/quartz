@@ -1,0 +1,5 @@
+Sometimes, a project hits a snag and incurs additional expenses. One way to prepare for unplanned costs is by using contingency reserves. Contingency reserves are funds added to the estimated project cost to cover identified risks. These are also referred to as buffers.
+
+To determine the amount of your contingency reserves, you will need to go through the risk management process and identify the risks that are most likely to occur. We will go into more detail on risk management later in the course, but it is important to understand that risks to your project can have an impact on your budget.
+
+Contingency reserves can also be used to cover areas where actual costs turn out to be higher than estimated costs. For example, you may estimate a certain amount for labor costs, but if a contracted worker on your team gets a raise, then the actual costs will be higher than you estimated. 

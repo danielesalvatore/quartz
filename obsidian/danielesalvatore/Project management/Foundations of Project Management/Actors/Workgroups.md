@@ -1,0 +1,1 @@
+People in an organization who work toward a common goal. Work groups are more likely to be coordinated, controlled, or assigned by a single person or entry.

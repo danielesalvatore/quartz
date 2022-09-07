@@ -1,7 +1,7 @@
 ---
 title: Wrap-ups
 ---
-I am excited to share with you my Google Project Management Professional Certificate!
+I am excited to share with you my Google Project Management: Professional Certificate!
 
 I decided to complete this specialization, available at https://www.coursera.org/professional-certificates/google-project-management, to assess a set of skills I use daily and to improve my knowledge of topics I am passionate about. 
 

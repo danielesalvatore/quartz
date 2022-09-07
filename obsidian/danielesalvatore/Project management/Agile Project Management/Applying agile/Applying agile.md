@@ -1,0 +1,10 @@
+Topics:
+- [[Agile team challenges]]
+- [[Coaching an Agile team]]
+- [[Coaching versus managing in Agile]]
+- [[Common Agile coaching challenges]]
+- [[Introducing Agile to an organization]]
+- [[Release plans]]
+- [[Value]]
+- [[Value roadmap]]
+- [[Value-driven delivery]]
