@@ -6,9 +6,9 @@ Phases:
 		- What would my audience like to know about the project?
 		- What are their most urgent concerns?
 		- Which key data points influence the story and project outcome?
-- Collect the [[Data]]
+- Collect the [[Data Analysts/Foundations/Data]]
 	- Leverage collected data and [[Documentation]]
-- Filter and analyze the data ([[Data analysis]])
+- Filter and analyze the data ([[Project management/Project execution/Project data/Data analysis]])
 - Choose a visual representation
 	- [[Data visualization]]
 - Shape the story

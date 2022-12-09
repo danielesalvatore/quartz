@@ -11,7 +11,7 @@ Risks can affect projects in various ways that are difficult to foresee.
 
 Related:
 - [[Communicate risks to stakeholders]]
-- [[Fixe whys]]
+- [[Five whys]]
 - [[Impact]]
 - [[Inherent risk]]
 - [[Issue]]

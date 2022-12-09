@@ -1,0 +1,1 @@
+A dataset is a collection of [[Data Analysts/Foundations/Data]] that can be manipulated or analyzed as one unit

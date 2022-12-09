@@ -10,7 +10,7 @@ Phases to create a fishbone diagram:
 - Identify categories that relate to risks
 - Brainstorm the causes
 - Analyze the causes and identify the root causes
-	- [[Fixe whys]]
+	- [[Five whys]]
 
 ![[cause_and_effect_diagram.png]]
 # Risk register

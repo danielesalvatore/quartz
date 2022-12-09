@@ -1,6 +1,6 @@
 Topics:
-- [[Data]]
-- [[Data analysis]]
+- [[Project management/Project execution/Project data/Data]]
+- [[Project management/Project execution/Project data/Data analysis]]
 - [[Duration]]
 - [[Data ethics]]
 - [[Duration]]

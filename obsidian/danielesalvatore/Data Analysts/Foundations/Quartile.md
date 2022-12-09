@@ -1,0 +1,1 @@
+A quartile divides data points into four equal parts. 

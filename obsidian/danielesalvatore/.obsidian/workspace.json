@@ -1,0 +1,228 @@
+{
+  "main": {
+    "id": "be091e1764421255",
+    "type": "split",
+    "children": [
+      {
+        "id": "306804d229320b4e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fac1bdc6f8c07a0d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Analysts/Foundations/Root cause.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "128adc305e848090",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Analysts/Foundations/Data-driven decision-making.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ca10dc98333f4f5a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Analysts/Foundations/Quartile.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f31f871c7319f626",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Analysts/Foundations/Data analysis phases.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "68b8abd665ccb7d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Analysts/Foundations/Data analysis phases.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fced5ce484001047",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Analysts/Foundations/Analyst tools.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cafe2dd50ad90972",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Analysts/Foundations/Database.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d20ced8c942fc03d",
+    "type": "split",
+    "children": [
+      {
+        "id": "2eb5400af7cbb4da",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "48019c22b86d3953",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c704904949c53c83",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "fixe whys",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2a3f1ecac4cf22ec",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 269.5
+  },
+  "right": {
+    "id": "de14ad7265eb5e0e",
+    "type": "split",
+    "children": [
+      {
+        "id": "6c39fa9d8a4ab6bd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f2048dc670955c6a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Data Analysts/Foundations/Analyst tools.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "24c69c02129e31f5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Data Analysts/Foundations/Analyst tools.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a9685157973448d9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "057b108058074a84",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Data Analysts/Foundations/Analyst tools.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "48019c22b86d3953",
+  "lastOpenFiles": [
+    "Data Analysts/Foundations/Data analysis phases.md",
+    "Data Analysts/Foundations/Data life cycle.md",
+    "Data Analysts/Foundations/Database.md",
+    "Data Analysts/Foundations/Analytical skills.md",
+    "Data Analysts/Foundations/Gap analysis.md",
+    "Data Analysts/Foundations/Dataset.md",
+    "Data Analysts/Foundations/Data-driven decision-making.md",
+    "Data Analysts/Foundations/Data science.md",
+    "Data Analysts/Foundations/Data ecosystems.md",
+    "Data Analysts/Foundations/Data analytics.md"
+  ]
+}

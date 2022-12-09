@@ -1,0 +1,1 @@
+Context is the condition in which something exists or happens

@@ -1,4 +1,4 @@
-It is the collection of [[Data]] in order to draw conclusions and make data-informed decisions.
+It is the collection of [[Project management/Project execution/Project data/Data]] in order to draw conclusions and make data-informed decisions.
 
 Data by itself won’t help make data-informed decisions. A [[Project manager]] must analyze the data to draw conclusions and make predictions. 
 

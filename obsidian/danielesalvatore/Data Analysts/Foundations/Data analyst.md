@@ -1,0 +1,1 @@
+It is someone who collects, transforms, and organizes data in order to help make informed decisions.
