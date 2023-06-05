@@ -4,12 +4,13 @@ import re
 import string
 import random
 
-IN_DIR = Path(r'./Project management')
+IN_DIR = Path(r'.')
 DEFAULT_DRAFT = False
 
 # --- CHANGE THE ABOVE, NOTHING BELOW THIS LINE ---
 
 OUT_DIR = Path(r'.')
+
 
 def sanitize_string(s):
     """
@@ -21,6 +22,7 @@ def sanitize_string(s):
     # dedupe -'s
     s = re.sub('-+', '-', s)
     return s.lower()
+
 
 def sanitize_link(link, files, verbose=True):
     """
@@ -57,6 +59,7 @@ def sanitize_link(link, files, verbose=True):
     sanitized_link = re.sub('\\\\', '/', sanitized_link)
     return sanitized_link
 
+
 def escape_re_special_characters(s):
     """
     given some string,
@@ -65,6 +68,7 @@ def escape_re_special_characters(s):
     for re_special_char in '/\-[]{}()*+?.,^$|#':
         s = re.sub(f'\{re_special_char}', f'\{re_special_char}', s)
     return s
+
 
 def add_frontmatter(s, title, default_draft=DEFAULT_DRAFT):
     """
@@ -96,12 +100,15 @@ title: {title}
             # take all colons out of titles to make Hugo-compliant
             if line.startswith('title:'):
                 has_title = True
-                lines[i] = 'title: ' + line.replace('title: ', '').replace(':', '').replace("'", '')
+                lines[i] = 'title: ' + \
+                    line.replace('title: ', '').replace(
+                        ':', '').replace("'", '')
         if not has_title:
             lines.insert(1, f'title: {title}')
 
         new_lines = lines
     return '\n'.join(new_lines)
+
 
 def sanitize_file_contents(path, files):
     """
@@ -117,9 +124,11 @@ def sanitize_file_contents(path, files):
         for link in links:
             sanitized_link = sanitize_link(link, files)
             escaped_special_chars_link = escape_re_special_characters(link)
-            sanitized_text = re.sub(escaped_special_chars_link, sanitized_link, sanitized_text)
+            sanitized_text = re.sub(
+                escaped_special_chars_link, sanitized_link, sanitized_text)
 
         f.write(sanitized_text)
+
 
 def sanitize_file_name(path):
     """
@@ -130,7 +139,8 @@ def sanitize_file_name(path):
     will have url-unfriendly chars such as '@' removed, making them collide.
     in this case one will have a random string appended to its filename to avoid collision
     """
-    sanitized_parents = [sanitize_string(str(p.stem)) for p in path.relative_to(IN_DIR).parents]
+    sanitized_parents = [sanitize_string(
+        str(p.stem)) for p in path.relative_to(IN_DIR).parents]
     sanitized_relpath = OUT_DIR
     for p in sanitized_parents[::-1]:
         sanitized_relpath = sanitized_relpath/p
@@ -139,7 +149,9 @@ def sanitize_file_name(path):
 
     # make sure no two notes collide
     if os.path.isfile(new_file_path):
-        new_file_path = new_file_path.parent/(''.join(random.choice(string.ascii_lowercase) for i in range(10)) + new_file_path.suffix)
+        new_file_path = new_file_path.parent / \
+            (''.join(random.choice(string.ascii_lowercase)
+             for i in range(10)) + new_file_path.suffix)
 
     with open(str(new_file_path), "w", encoding='utf-8') as f:
         with open(str(path), "r", encoding='utf-8') as f_old:

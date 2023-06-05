@@ -5,8 +5,7 @@ CONTENT_ROOT_FOLDER="content/"
 SCRIPTS_ROOT_FOLDER="scripts/"
 FOLDER_TO_BACKUP=("private" "templates" "_index.md")
 SANITIZE_SCRIPT="obsidian-quartz-sanitizer.py"
-OBSIDIAN_VAULT_ROOT="obsidian/danielesalvatore/"
-OBSIDIAN_FOLDER_NAME="Project management"
+OBSIDIAN_VAULT_ROOT="../../../Google Drive/obsidian/danielesalvatore"
 
 
 # -- Create a working dir
@@ -23,7 +22,7 @@ done
 
 # -- Sanitize the obsidian content
 echo "Move obsidian content to working dir"
-cp -R "$OBSIDIAN_VAULT_ROOT$OBSIDIAN_FOLDER_NAME" $TMP
+cp -R "$OBSIDIAN_VAULT_ROOT" $TMP
 
 # Copy the script in 'content' folder and run the script
 echo "Move sanitize script to working dir"
@@ -34,7 +33,6 @@ python $SANITIZE_SCRIPT
 
 # Remove the uneeded files once done
 rm -rf $SANITIZE_SCRIPT
-rm -rf "$OBSIDIAN_FOLDER_NAME"
 
 cd ..
 
