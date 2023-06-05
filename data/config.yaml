@@ -11,13 +11,17 @@ enableFooter: true
 enableContextualBacklinks: true
 enableRecentNotes: false
 enableGitHubEdit: false
+enableMermaid: true
 GitHubLink: https://github.com/danielesalvatore/quartz/tree/hugo/content
-enableSemanticSearch: false
-operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
+search:
+  enableSemanticSearch: false
+  operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
+  operandIndexId: "REPLACE-WITH-YOUR-OPERAND-INDEX-ID"
 description:
-  notes about Project Management
+  Host your second brain and digital garden for free. Quartz features extremely fast full-text search,
+  Wikilink support, backlinks, local graph, tags, and link previews.
 page_title:
-  "🧠 Project management • notes"
+  "🧠 My second brain • notes"
 links:
   - link_name: Linkedin
     link: https://www.linkedin.com/in/daniele-salvatore-5b342452/
