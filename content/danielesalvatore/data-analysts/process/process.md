@@ -1,0 +1,23 @@
+---
+title: Process
+---
+- [Alignment with business objective](danielesalvatore/data-analysts/process/alignment-with-business-objective.md)
+- [Clean data](danielesalvatore/data-analysts/process/clean-data.md)
+- [Confidence level](danielesalvatore/data-analysts/process/confidence-level.md)
+- [Confidence level](danielesalvatore/data-analysts/process/confidence-level.md)
+- [Consent](danielesalvatore/data-analysts/process/consent.md)
+- [Data engineers](danielesalvatore/data-analysts/process/data-engineers.md)
+- [Data integrity](danielesalvatore/data-analysts/process/data-integrity.md)
+- [Data manipulation](danielesalvatore/data-analysts/process/data-manipulation.md)
+- [Data merging](danielesalvatore/data-analysts/process/data-merging.md)
+- [Data replication](danielesalvatore/data-analysts/process/data-replication.md)
+- [Data transfer](danielesalvatore/data-analysts/process/data-transfer.md)
+- [Data validation](danielesalvatore/data-analysts/process/data-validation.md)
+- [Data warehousing specialists](danielesalvatore/data-analysts/process/data-warehousing-specialists.md)
+- [Dirty data](danielesalvatore/data-analysts/process/dirty-data.md)
+- [Hypothesis testing](danielesalvatore/data-analysts/process/hypothesis-testing.md)
+- [Insufficient data](danielesalvatore/data-analysts/process/insufficient-data.md)
+- [Margin error](danielesalvatore/data-analysts/process/margin-error.md)
+- [Random sampling](danielesalvatore/data-analysts/process/random-sampling.md)
+- [Statistical power](danielesalvatore/data-analysts/process/statistical-power.md)
+- [Statistical significance](danielesalvatore/data-analysts/process/statistical-significance.md)

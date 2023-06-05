@@ -1,0 +1,23 @@
+---
+title: Project execution
+---
+Topics:
+- [Continuous improvements](danielesalvatore/project-management/project-execution/continuous-improvements/continuous-improvements.md)
+- [Data visualization](danielesalvatore/data-analysts/share/data-visualization/data-visualization.md)
+- [Effective communication](danielesalvatore/project-management/project-execution/effective-communication/effective-communication.md) 
+- [Effective teams](danielesalvatore/project-management/project-execution/effective-teams/effective-teams.md)
+- [Project data](danielesalvatore/project-management/project-execution/project-data/project-data.md)
+- [Quality management](danielesalvatore/project-management/project-execution/quality-management/quality-management.md)
+- [Burndown chart](danielesalvatore/project-management/project-execution/burndown-chart.md)
+- [Change](danielesalvatore/project-management/project-execution/change.md)
+- [Dependency management](danielesalvatore/project-management/project-execution/dependency-management.md)
+- [Deviation](danielesalvatore/project-management/project-execution/deviation.md)
+- [Escalation](danielesalvatore/project-management/project-execution/escalation.md)
+- [Gantt chart](danielesalvatore/project-management/project-execution/gantt-chart.md)
+- [Identifying and tracking dependencies](danielesalvatore/project-management/project-execution/identifying-and-tracking-dependencies.md)
+- [Product roadmap](danielesalvatore/project-management/project-execution/product-roadmap.md)
+- [Retrospective](danielesalvatore/project-management/project-execution/retrospective.md)
+- [Roadmap](danielesalvatore/project-management/project-execution/roadmap.md)
+- [Techniques to help manage risks](danielesalvatore/project-management/project-execution/techniques-to-help-manage-risks.md)
+- [Tracking](danielesalvatore/project-management/project-execution/tracking.md)
+- [Tracking methods](danielesalvatore/project-management/project-execution/tracking-methods.md)

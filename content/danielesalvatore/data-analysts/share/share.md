@@ -1,0 +1,18 @@
+---
+title: Share
+---
+- [Avoiding misleading or deceptive charts](danielesalvatore/data-analysts/share/avoiding-misleading-or-deceptive-charts.md)
+- [Curse of knowledge](danielesalvatore/data-analysts/share/curse-of-knowledge.md)
+- [Design principles](danielesalvatore/data-analysts/share/design-principles.md)
+- [Design thinking](danielesalvatore/data-analysts/share/design-thinking.md)
+- [Dynamic visualizations](danielesalvatore/data-analysts/share/dynamic-visualizations.md)
+- [Effective data visualization](danielesalvatore/data-analysts/share/effective-data-visualization.md)
+- [Elements for effective visuals](danielesalvatore/data-analysts/share/elements-for-effective-visuals.md)
+- [Elements of art](danielesalvatore/data-analysts/share/elements-of-art.md)
+- [Engagement](danielesalvatore/data-analysts/share/engagement.md)
+- [Further reading](danielesalvatore/data-analysts/share/further-reading.md)
+- [Hypothesis](danielesalvatore/data-analysts/share/hypothesis.md)
+- [Powerful visualization](danielesalvatore/data-analysts/share/powerful-visualization.md)
+- [Tableau](danielesalvatore/data-analysts/share/tableau.md)
+- [The McCandless method](danielesalvatore/data-analysts/share/the-mccandless-method.md)
+- [Why data visualization mattera](danielesalvatore/data-analysts/share/why-data-visualization-mattera.md)

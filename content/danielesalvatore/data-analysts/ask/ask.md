@@ -1,0 +1,19 @@
+---
+title: Ask
+---
+- [Algorithm](danielesalvatore/data-analysts/ask/algorithm.md)
+- [Big data](danielesalvatore/data-analysts/ask/big-data.md)
+- [Data triumphs and disasters](danielesalvatore/data-analysts/ask/data-triumphs-and-disasters.md)
+- [Decision-making types](danielesalvatore/data-analysts/ask/decision-making-types.md)
+- [Mathematical thinking](danielesalvatore/data-analysts/ask/mathematical-thinking.md)
+- [Metric](danielesalvatore/data-analysts/ask/metric.md)
+- [Pivot table](danielesalvatore/data-analysts/ask/pivot-table.md)
+- [Problem](danielesalvatore/data-analysts/ask/problem.md)
+- [Problem types](danielesalvatore/data-analysts/ask/problem-types.md)
+- [Qualitative and quantitative data](danielesalvatore/data-analysts/ask/qualitative-and-quantitative-data.md)
+- [Questions to avoid](danielesalvatore/data-analysts/ask/questions-to-avoid.md)
+- [Report](danielesalvatore/data-analysts/ask/report.md)
+- [Scope of Work](danielesalvatore/data-analysts/ask/scope-of-work.md)
+- [Small data](danielesalvatore/data-analysts/ask/small-data.md)
+- [SMART questions](danielesalvatore/data-analysts/ask/smart-questions.md)
+- [Structured data](danielesalvatore/data-analysts/prepare/structured-data.md)

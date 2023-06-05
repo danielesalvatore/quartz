@@ -1,0 +1,24 @@
+---
+title: Agile Project Management
+---
+Topics:
+- [Applying agile](danielesalvatore/project-management/agile-project-management/applying-agile/applying-agile.md)
+- [Scrum](danielesalvatore/project-management/agile-project-management/scrum/scrum.md)
+- [Agile](danielesalvatore/.trash/agile.md)
+- [Agile manifesto](danielesalvatore/project-management/agile-project-management/agile-manifesto.md)
+- [Business agility](danielesalvatore/project-management/agile-project-management/business-agility.md)
+- [DevOps](danielesalvatore/project-management/agile-project-management/devops.md)
+- [Disciplined Agile Delivery (DAD)](danielesalvatore/project-management/agile-project-management/disciplined-agile-delivery-dad.md)
+- [Distinguishing Agile from Waterfall](danielesalvatore/project-management/agile-project-management/distinguishing-agile-from-waterfall.md)
+- [Extreme programming (XP)](danielesalvatore/project-management/agile-project-management/extreme-programming-xp.md)
+- [History of agile](danielesalvatore/project-management/agile-project-management/history-of-agile.md)
+- [Interview questions](danielesalvatore/project-management/agile-project-management/interview-questions.md)
+- [Kanban](danielesalvatore/project-management/agile-project-management/kanban.md)
+- [Large-Scale Scrum (LeSS)](danielesalvatore/project-management/agile-project-management/large-scale-scrum-less.md)
+- [Mission](danielesalvatore/project-management/agile-project-management/mission.md)
+- [Scale agile](danielesalvatore/project-management/agile-project-management/scale-agile.md)
+- [Scaled Agile Framework (SAFe)](danielesalvatore/project-management/agile-project-management/scaled-agile-framework-safe.md)
+- [Scrum of Scrums](danielesalvatore/project-management/agile-project-management/scrum-of-scrums.md)
+- [The Spotify Model](danielesalvatore/project-management/agile-project-management/the-spotify-model.md)
+- [VUCA](danielesalvatore/project-management/agile-project-management/vuca.md)
+- [Work in Progress](danielesalvatore/project-management/agile-project-management/work-in-progress.md)
